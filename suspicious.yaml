@@ -2,6 +2,30 @@ excluded_keywords:
     'safety': 0
     'otoyardim': 0
     'medicine': 0
+    'amazonaws': 0
+    'keenetic': 0
+    'azure': 0
+    'gitlab': 0
+    'zendesk': 0
+    'accesspoint': 0
+    'certsbridge': 0
+    'appdomain': 0
+    'nginx': 0
+    'scw.cloud': 0
+    'fab': 0
+    'lastik': 0
+    'tasimacilik': 0
+    'ziyafet': 0
+    'kiyafet': 0
+    'dynamics': 0
+    'yolyardim': 0
+    'bilgisayaryardim': 0
+    'workers': 0
+    'facil': 0
+    'cilingir': 0
+    'remotewd': 0
+    'magentosite': 0
+    'forgeapps': 0
 
 keywords:
     'afad': 100
@@ -82,3 +106,4 @@ tlds:
     '.tech':
     '.science':
     '.business':
+
