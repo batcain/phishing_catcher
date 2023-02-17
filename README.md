@@ -44,7 +44,7 @@ However, in order to be reported as suspicious by Phishing Catcher, the score as
 Once configured to your liking, usage is as simple as running the script:
 
 ```
-$ ./catch_phishing.py
+$ ./phishing_catcher.py
 ```
 
 ### Example phishing caught
