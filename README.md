@@ -21,6 +21,8 @@ Phishing Catcher uses a simple YAML configuration file to assign a numeric score
 Both the default `suspicious.yaml` and the user-modifiable `external.yaml` configuration files contain two YAML dictionaries: `keywords` and `tlds`. The keys of the dictionaries are the strings and the values are the scores to assign if that string is found in the domain name for an issued certificate. For example:
 
 ```yaml
+excluded_keywords:
+    'xylogin': 0
 keywords:
     'login': 25
 ```
